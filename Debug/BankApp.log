@@ -1,0 +1,3 @@
+﻿  User.cpp
+C:\Users\danni\Documents\Personal\Bank\BankApp\User.cpp(4,1): error C2011: 'User': 'class' type redefinition
+C:\Users\danni\Documents\Personal\Bank\BankApp\User.h(4): message : see declaration of 'User'
